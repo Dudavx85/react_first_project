@@ -1,0 +1,22 @@
+{
+  "name": "react_first_project",
+  "version": "1.0.0",
+  "description": "education React Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dudavx85/react_first_project.git"
+  },
+  "keywords": [
+    "education"
+  ],
+  "author": "Duda Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dudavx85/react_first_project/issues"
+  },
+  "homepage": "https://github.com/Dudavx85/react_first_project#readme"
+}
